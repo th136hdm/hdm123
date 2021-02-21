@@ -1,4 +1,4 @@
-id,name,type,sex,age,function,position,representation,power
+id,name,type,sex,age,komitee,position,representation,power
 ThoHit,Thomas Hitzlsperger,0,1,0,1,1,1,2
 TobKel,Tobias Keller,0,1,0,1,1,5,0
 OliSch,Oliver Schraft,0,1,2,1,3,6,1
