@@ -10,7 +10,7 @@ komitee,"1: Vorstandsmitglied, 2: Aufsichtsratmitglied",Funktion innerhalb der O
 position,"1: Vorsitz, 2: Stellvertreter, 3: Mitglied",Position innerhalb der VfB Organisation (Vorstand/Aufsichtsrat)
 represantation,"1: Sport, 2: Wirtschaft, 3: Vereinskultur, 4: Fankultur, 5: Finanzen, 6: Kommunikation",Funktion innerhalb der VfB Gremien
 power,"0: wenig einflussreich, 1: mittelmäßig einflussreich, 2: sehr einflussreich",Einfluss
-NA,-,fehlende Werte
+n/a,-,fehlende Werte
 ,,
 edgelist,,Die Edgelist enthält pro Spalte immer nur einen Wert. Bis auf die IDs ist die Edgelist numerisch kodiert.
 from,von,Definiert den Sender. Entspricht ID in der Nodelist. 
